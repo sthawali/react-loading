@@ -21,9 +21,6 @@
     "url": "https://github.com/cezary/react-loading/issues"
   },
   "homepage": "https://github.com/cezary/react-loading",
-  "dependencies": {
-    "react": ">= 0.13.0"
-  },
   "devDependencies": {
     "babel-loader": "^5.2.2",
     "node-libs-browser": "^0.5.2",
