@@ -21,7 +21,7 @@
     "url": "https://github.com/cezary/react-loading/issues"
   },
   "homepage": "https://github.com/cezary/react-loading",
-  "peerDependencies": {
+  "dependencies": {
     "react": ">= 0.13.0"
   },
   "devDependencies": {
